@@ -38,3 +38,7 @@ def get_final_answers():
 
 if __name__ == "__main__":
     get_final_answers()
+
+
+#วิธีรัน 1 export PYTHONPATH=$PYTHONPATH:.
+#     2 ./venv/bin/python src/etl/final_results.py
